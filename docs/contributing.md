@@ -46,7 +46,7 @@ Feel free to use a virtual environment if you are concerned about installing any
 ### Running Validation Tests
 
 !!! tip "Tip"
-    If you are running Sublime on a OSX or Linux/Unix system, you run all tests by by running the shell script (assuming you have installed your environment fulfills all requirements below):
+    If you are running Sublime on a OSX or Linux/Unix system, you run all tests by running the shell script (assuming you have installed your environment fulfills all requirements below):
 
     ```
     chmod +x run_tests.sh
